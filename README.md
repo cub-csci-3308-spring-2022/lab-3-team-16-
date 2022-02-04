@@ -1,3 +1,2 @@
-Project Team Members:
-Hailey Kellackey
-blah# lab-3-team-16-
+
+blah# lab-3-team-16- project team members: Hailey Kellackey
