@@ -1,3 +1,4 @@
-
-
-blah# lab-3-team-16- project team members:
+# lab-3-team-16-
+Project Team Members:
+Hailey Kellackey
+Peter McDevitt
